@@ -34,14 +34,14 @@ This repository is designed for programmers who have a basic understanding of C 
 ## 📂 Folder Structure
 
 ```
-C-Intermediate-Preparation/
-│── Advanced-Control-Flow/
-│── Functions-Memory/
-│── Pointers-Data-Structures/
-│── File-Handling-Preprocessor/
-│── Bitwise-Misc/
-│── Practice-Problems/
-│── README.md
+C-Intermediate-Preparation/  
+│── [Advanced-Control-Flow](Advanced-Control-Flow/README.md)/  
+│── [Functions-Memory](Functions-Memory/README.md)/  
+│── [Pointers-Data-Structures](Pointers-Data-Structures/README.md)/  
+│── [File-Handling-Preprocessor](File-Handling-Preprocessor/README.md)/  
+│── [Bitwise-Misc](Bitwise-Misc/README.md)/  
+│── [Practice-Problems](Practice-Problems/README.md)/  
+│── [README.md](README.md)  
 ```
 
 ## 🚀 How to Use
