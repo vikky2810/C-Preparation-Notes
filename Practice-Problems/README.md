@@ -8,5 +8,3 @@ This section contains coding challenges to test your C skills.
 - Implement a stack using arrays  
 - Find the largest element in an array  
 ```
-
----
