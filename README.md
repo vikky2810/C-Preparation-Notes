@@ -33,7 +33,7 @@ This repository is designed for programmers who have a basic understanding of C 
 
 ## 📂 Folder Structure
 
-```
+
 C-Intermediate-Preparation/  
 │── [Advanced-Control-Flow](Advanced-Control-Flow/README.md)/  
 │── [Functions-Memory](Functions-Memory/README.md)/  
@@ -42,7 +42,7 @@ C-Intermediate-Preparation/
 │── [Bitwise-Misc](Bitwise-Misc/README.md)/  
 │── [Practice-Problems](Practice-Problems/README.md)/  
 │── [README.md](README.md)  
-```
+
 
 ## 🚀 How to Use
 
